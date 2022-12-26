@@ -22,6 +22,9 @@ namespace AC_Hack
             Console.Title = "https://github.com/itssnee";
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Assault Cube hack v1");
+            Console.WriteLine("Enabling Godmode...");
+            Thread.Sleep(1000);
+            Console.WriteLine("Enabled Godmode succesfully!");
             Console.ResetColor();
             while (true)
             {
