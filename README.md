@@ -3,6 +3,8 @@
 ![image](https://media.discordapp.net/attachments/1021828286541733978/1056918487144075395/image.png?width=1053&height=631)
 A simple Assault Cube hack made in c#
 
+I recommend remastering this project and using the things I already put in as a template since this isn't a good code.
+
 Right now it can only change your health.
 
 # Assault Cube Version
