@@ -3,6 +3,31 @@
 ![image](https://media.discordapp.net/attachments/1021828286541733978/1056918487144075395/image.png?width=1053&height=631)
 A simple Assault Cube hack made in c#
 
+# Features
+Features of the build folder:
+✅Godmode
+
+✅Infinite Ammo for every Weapon
+
+✅Infinite Grenades
+
+✅Automatic Injector
+
+❌Source Code
+
+Features of the source code version
+
+✅Godmode
+
+❌Infinite Ammo for every Weapon
+
+❌Infinite Grenades
+
+✅Automatic Injector
+
+✅Source Code
+
+# Information
 I recommend remastering this project and using the things I already put in as a template since this isn't a good code.
 
 Right now it can only change your health.
