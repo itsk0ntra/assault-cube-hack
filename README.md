@@ -26,4 +26,4 @@ This is the version the cheat was made for.
 You can either build it by yourself or download the files in the debug folder.
 I am not responsible for the Users actions.
 
-Yes, I have an advanced version for ammo, grenades, esp, etc. but no it is only for friends of mine.
+Yes, I have an advanced version for ammo, grenades, esp, etc. but no, i won't give the source code.
