@@ -17,7 +17,7 @@ A simple Assault Cube hack made in c#
 # Information
 I recommend remastering this project and using the things I already put in as a template since this isn't a good code.
 
-Right now it can only change your health.
+Right now it(source code version) can only change your health.
 
 # Assault Cube Version
 https://github.com/assaultcube/AC/archive/refs/tags/v1.1.0.4.zip
