@@ -1,7 +1,7 @@
 # ac-health-hack
 [Hack Releases](https://github.com/itssnee/ac-health-hack/releases)
 
-![image]([https://media.discordapp.net/attachments/1021828286541733978/1056918487144075395/image.png?width=1053&height=631](https://media.discordapp.net/attachments/1021828286541733978/1058488472479989820/image.png?width=876&height=465))
+![image](https://media.discordapp.net/attachments/1021828286541733978/1058488472479989820/image.png?width=876&height=465)
 A simple Assault Cube hack made in c#
 
 # Features
