@@ -4,29 +4,13 @@
 A simple Assault Cube hack made in c#
 
 # Features
-Features of the build folder:
-
-✅Godmode
-
-✅Infinite Ammo for every Weapon
-
-✅Infinite Grenades
-
-✅Automatic Injector
-
-❌Source Code
-
-Features of the source code version
-
-✅Godmode
-
-❌Infinite Ammo for every Weapon
-
-❌Infinite Grenades
-
-✅Automatic Injector
-
-✅Source Code
+| Features of the build folder    | Features of the source code version |
+|---------------------------------|-------------------------------------|
+| ✅Godmode                        | ✅Godmode                            |
+| ✅Infinite Ammo for every Weapon | ❌Infinite Ammo for every Weapon     |
+| ✅Infinite Grenades              | ❌Infinite Grenades                  |
+| ✅Automatic Injector             | ✅Automatic Injector                 |
+| ❌Source Code                    | ✅Source Code                        |
 
 # Information
 I recommend remastering this project and using the things I already put in as a template since this isn't a good code.
