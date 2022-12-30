@@ -17,6 +17,7 @@ A simple Assault Cube hack made in c#
 # Information
 I recommend remastering this project and using the things I already put in as a template since this isn't a good code.
 
+The already builded version(debug folder i think) doesn't use a base adress or smth, it uses[these offsets](https://github.com/itssnee/assault-cube-offsets).
 Right now it(source code version) can only change your health.
 
 # Assault Cube Version
