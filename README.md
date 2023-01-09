@@ -6,7 +6,7 @@
 A simple Assault Cube hack made in c#
 
 # Features
-| Features of the build folder    | Features of the source code version |
+| Features of the debug folder    | Features of the source code version |
 |---------------------------------|-------------------------------------|
 | ✅Godmode                        | ✅Godmode                            |
 | ✅Infinite Ammo for every Weapon | ❌Infinite Ammo for every Weapon     |
